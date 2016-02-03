@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name = "IQKeyboardManagerSwift"
-	s.version = "3.3.6"
+	s.version = "3.3.7"
 	s.summary = "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView."
 	s.homepage = "https://github.com/hackiftekhar/IQKeyboardManager"
 	s.screenshots = "https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/Screenshot/IQKeyboardManagerScreenshot.png"
